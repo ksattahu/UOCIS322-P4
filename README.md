@@ -18,7 +18,9 @@ past. Each specific brevet has a unique max, these are :(in hours and minutes, H
 Each starting time is relative to the previous starting times, similar to the closing times.
 
 Test suite can be ran inside the docker container use nosetests .
-the test suite is not verbose but does account for unique use cases for the ACP
+
+The test suite is not verbose but does account for unique use cases for the ACP
+it specifically shows the cases listed above.
 
 #
 
